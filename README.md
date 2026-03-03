@@ -40,3 +40,7 @@ Styled Cloud
 Visualization & Interpretation:
 Used Matplotlib to display word clouds and analyze dominant terms. Identified important keywords, trends, and patterns from the dataset through visual frequency representation.
 
+## Datasets
+<img width="667" height="335" alt="image" src="https://github.com/user-attachments/assets/962f2f6f-003d-4c1d-89f2-3ee2a3b4c990" />
+
+
